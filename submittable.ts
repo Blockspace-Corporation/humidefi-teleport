@@ -27,7 +27,7 @@ const submittable = async () => {
 	try {
 		callInfo = await assetApi.createTransferTransaction(
 			'1000', // Specify parachain system ID
-			'EGP7XztdTosm1EmaATZVMjSWujGEj9nNidhjqA2zZtttkFg',
+			'5EWNeodpcQ6iYibJ3jmWVe85nsok1EDG8Kk3aFg8ZzpfY1qX',
 			['ROC'],
 			['1000000000000'],
 			{
