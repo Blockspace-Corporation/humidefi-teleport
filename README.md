@@ -23,3 +23,7 @@ To transfer a native token from asset hub to relaychain
 ```
 node assetHubToRelay.ts
 ```
+
+# Documentation
+
+Full documentation can be found [here](https://paritytech.github.io/asset-transfer-api/index.html).
